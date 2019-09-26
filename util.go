@@ -1,7 +1,7 @@
 package testmod
 
 import (
-	"fmt"
+	//"fmt"
 )
 
 func Swap(a, b int) (int, int) {
