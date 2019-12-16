@@ -3,6 +3,7 @@ package main
 //this is testtmp
 //yes testtmp
 //after stash
+//submit from /tmp
 import (
     "fmt"
 )
