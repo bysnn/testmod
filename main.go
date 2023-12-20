@@ -1,10 +1,12 @@
 package main
 
 import (
-    "fmt"
+	"fmt"
+
+	"github.com/bysnn/testmod/lib"
 )
 
 func main() {
-    fmt.Println("hello, world")
-    fmt.Println("YING")
+	fmt.Println("hello, world")
+	fmt.Println(lib.Substr(" YING "))
 }

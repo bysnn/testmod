@@ -1,5 +1,7 @@
 package lib
 
+import "strings"
+
 func Substr(str string) string {
-    return str
+	return strings.TrimSpace(str)
 }
