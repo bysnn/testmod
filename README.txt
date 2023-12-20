@@ -1,1 +1,1 @@
-Add readme.txt
+Golang module test project.
